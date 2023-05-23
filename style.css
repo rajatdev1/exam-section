@@ -1,0 +1,53 @@
+body{
+    height: 100vh;
+  
+}
+
+.kk_cards_widget {
+    background: #FEFEFE;
+    padding: 40px 0;
+    display: flex;
+    
+}
+.card_spacing{
+    padding: 20px;
+}
+a.kk_cards{
+    display: block;
+    background: #fff;
+    transition: .3s;
+    margin-bottom: 20px;
+    box-shadow: 3px 3.667px 3.84px 0.16px rgb(0 0 0 / 3%);
+    text-align: center;
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+    color: #383838;
+}
+a.kk_cards:hover {
+    background: #fb7b4c;
+    color: #fff;
+}
+
+.cards_bgcolor{
+    padding: 15px 7px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.cards_bgcolor>img{
+    width: 120px;
+    height: 90px;
+}
+.books_kk{
+    background: #ffd7c5;
+}
+.notes_kk{
+    background: #e5c7ff;
+    
+}
+.mcq_kk{
+    background: #F7E0FE;
+}
